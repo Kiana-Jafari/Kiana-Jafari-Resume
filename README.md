@@ -1,6 +1,6 @@
 ## Kiana Jafari's Resume
 
-**This repository contains my up-to-date resume, showcasing my academic background, technical skills, internship experience, and projects in Data Science, Machine Learning, and Software Development. Feel free to explore or reach out for collaboration opportunities!**
+_This repository contains my up-to-date resume, showcasing my academic background, technical skills, internship experience, and projects in Data Science, Machine Learning, and Software Development. Feel free to explore or reach out for collaboration opportunities!_
 
 
 🎓 Dual degree student majoring in Computer Science at the University of London with a strong foundation in data science, machine learning, and AI.
